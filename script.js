@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 // script.js
 
 // Add event listener to navigation links
@@ -17,7 +16,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 document.getElementById('menu-toggle').addEventListener('click', function() {
     document.getElementById('nav-links').classList.toggle('show');
-=======
+});
 // script.js
 
 // Add event listener to navigation links
@@ -36,5 +35,4 @@ document.addEventListener("DOMContentLoaded", function () {
 
 document.getElementById('menu-toggle').addEventListener('click', function() {
     document.getElementById('nav-links').classList.toggle('show');
->>>>>>> 5ae2a38 (Initial commit: Professional portfolio update.)
 });
